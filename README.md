@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm [Krishana](https://krishana18kumar.github.io/Resume/) (17) ! :sunglasses:
+I'm [Krishana](https://krishana18kumar.github.io/Resume/) (21) ! :sunglasses:
 ----
 
 #### 🔭 I’m currently working on ...
@@ -17,13 +17,13 @@ I'm [Krishana](https://krishana18kumar.github.io/Resume/) (17) ! :sunglasses:
   <img src="https://komarev.com/ghpvc/?username=krishana18kumar&style=flat-square" />
  </a>
 
-***
+---
 
 <a href="https://github.com/krishana18kumar">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishana18kumar&layout=compact" />
 </a>
-***
+
+----
 
 ![Krishana's github stats](https://github-readme-stats.vercel.app/api?username=krishana18kumar&show_icons=true)
-<summary>:zap: Recent Github Activity</summary>
 ----
