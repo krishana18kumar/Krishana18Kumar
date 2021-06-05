@@ -1,16 +1,29 @@
 ### Hi there 👋
+I'm [Krishana](https://krishana18kumar.github.io/Resume/) (17) ! :sunglasses:
+----
 
-<!--
-**krishana18kumar/Krishana18Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on ...
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+----
 
-Here are some ideas to get you started:
+<a href="https://github.com/krishana18kumar">
+  <img src="https://komarev.com/ghpvc/?username=krishana18kumar&style=flat-square" />
+ </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+<a href="https://github.com/krishana18kumar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishana18kumar&layout=compact" />
+</a>
+***
+
+![Krishana's github stats](https://github-readme-stats.vercel.app/api?username=krishana18kumar&show_icons=true)
+<summary>:zap: Recent Github Activity</summary>
+----
