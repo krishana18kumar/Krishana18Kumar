@@ -19,16 +19,6 @@ I'm [Krishana](https://krishana18kumar.github.io/Resume/) (21) ! :sunglasses:<br
 
 ----
 
-<a href="https://github.com/krishana18kumar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishana18kumar&layout=compact" />
-</a>
-
-----
-
-![Krishana's github stats](https://github-readme-stats.vercel.app/api?username=krishana18kumar&show_icons=true)
-----
-
-
 Feel Free to get Connected!
 Have a Great Day!
 ----
